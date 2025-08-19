@@ -1,5 +1,5 @@
 ### Service Api 
 
-## CRUD Dengan Golang 
+## CRUD Dengan Golang dengan koneksi menggunakan database mysql
 
-## untuk provisioning create db with kubernets/docker 
+## untuk provisioning create db with kubernets/docker
