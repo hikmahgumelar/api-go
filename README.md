@@ -1,4 +1,4 @@
-# Service API with Golang
+# Service API with Golang (CRUD)
 
 This project is a simple CRUD (Create, Read, Update, Delete) service API built with Golang.
 
@@ -35,5 +35,12 @@ This service uses a MySQL database to store data. The connection is configured i
     ```bash
     go run main.go
     ```
+
+### Build
+
+To build the application into a binary file, run the following command:
+```bash
+go build -o service-api main.go
+```
 
 The API will be running at `http://localhost:8080`.
